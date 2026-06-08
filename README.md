@@ -19,6 +19,12 @@ Skills are agent-discoverable workflows. Keep something as a skill only when it 
 
 Prompts are manual, explicit-use instructions. They live outside `skills/` so agents do not invoke every workflow by themselves.
 
+## Designs
+
+- `designs/search-as-code-hermes.md` — analysis and full design draft for applying Perplexity's Search as Code (SaC) pattern to the Hermes agent runtime.
+
+Designs are analysis and architecture documents, not agent-invocable workflows.
+
 ## Acknowledgements
 
 This collection builds on ideas from Matt Pocock and Brian Madison’s agent workflow methodology. I love their work.
